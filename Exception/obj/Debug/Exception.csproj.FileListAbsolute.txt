@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\luisc\source\repos\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\luisc\source\repos\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\luisc\source\repos\Exception\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\luisc\source\repos\Exception\Exception\obj\Debug\Exception.pdb
